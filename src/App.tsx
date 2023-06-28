@@ -9,7 +9,7 @@ function App() {
       <GridItem area="aside" bg="gold">
         Aside
       </GridItem>
-      <GridItem area="main" bg="dorgerblue">
+      <GridItem area="main" bg="dodgerblue">
         Main
       </GridItem>
     </Grid>
